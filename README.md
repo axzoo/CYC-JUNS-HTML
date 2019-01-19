@@ -1,3 +1,3 @@
 # CYC-JUNS-HTML
-My own create website.
-Using Notepad++/Subline created the testing version.
+My own create RWD website.
+Using Notepad++/Sublime created the testing version.
